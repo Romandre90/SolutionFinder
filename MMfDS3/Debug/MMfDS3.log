@@ -1,0 +1,21 @@
+﻿Build started 11/09/2015 11:30:13.
+     1>Project "C:\ESAME\MMfDS3\MMfDS3\MMfDS3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\esame\mmfds3\mmfds3\funct.h(165): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\esame\mmfds3\mmfds3\funct.h(188): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\esame\mmfds3\mmfds3\funct.h(209): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\esame\mmfds3\mmfds3\funct.h(220): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\esame\mmfds3\mmfds3\funct.h(233): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\esame\mmfds3\mmfds3\funct.h(244): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\esame\mmfds3\mmfds3\funct.h(388): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\esame\mmfds3\mmfds3\funct.h(557): warning C4018: '>=' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\ESAME\MMfDS3\Debug\MMfDS3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\ESAME\MMfDS3\Debug\MMfDS3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\ESAME\MMfDS3\Debug\MMfDS3.lib" /MACHINE:X86 Debug\main.obj
+         MMfDS3.vcxproj -> C:\ESAME\MMfDS3\Debug\MMfDS3.exe
+     1>Done Building Project "C:\ESAME\MMfDS3\MMfDS3\MMfDS3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.71
